@@ -1,1 +1,6 @@
-# SC_302_Documentacion_LXN_Azael
+# SC\_302\_Documentacion\_LXN\_Azael
+
+
+
+Esta es mi primera práctica con GitHub.
+
